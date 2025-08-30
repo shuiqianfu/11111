@@ -10,3 +10,6 @@ for _ in range(n):
 # 初始化指针和最小值
 min_heap = []
 current_max = float('inf')
+
+
+
